@@ -1,3 +1,5 @@
+Chat Recording Module to be used with Jitsi Meet.
+
 [Installation]
 1. cp mod_muc_chat_recording.lua /usr/share/jitsi-meet/prosody-plugins
 2. Edit /etc/prosody/conf.d/<something>.cfg.lua
