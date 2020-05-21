@@ -1,4 +1,5 @@
 Chat Recording Module to be used with Jitsi Meet.
+Saves all chats, in all rooms, to filesystem.
 
 [Installation]
 1. cp mod_muc_chat_recording.lua /usr/share/jitsi-meet/prosody-plugins
